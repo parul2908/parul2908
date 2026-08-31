@@ -23,4 +23,4 @@ I’m a software engineer passionate about building **scalable backend systems, 
 
 ### 🤝 Let's Connect
 
-[LinkedIn](https://www.linkedin.com/in/parul-gupta-04236a1b7/) • [GitHub](https://github.com/parul2908)
+[LinkedIn](https://www.linkedin.com/in/parul-gupta-04236a1b7/) • [GitHub](https://github.com/parul2908) • [Leetcode](https://leetcode.com/u/parul_2908/)
