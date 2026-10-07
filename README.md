@@ -4,7 +4,7 @@
 
 I’m a software engineer passionate about building **scalable backend systems, distributed applications, and reliable APIs**.
 
-💻 **Tech Stack:** Java, Spring Boot, PostgreSQL, Redis, Kafka, Docker, AWS
+💻 **Tech Stack:** Java, Spring Boot, Python Django, React, Typescript, PostgreSQL, Redis, Kafka, Docker, AWS
 
 🚀 I enjoy working on backend architecture, system design, distributed systems, and performance optimization.
 
